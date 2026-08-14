@@ -1,0 +1,2 @@
+# Allow the Updater to discover Android's system update service.
+allow updater_app system_update_service:service_manager find;
